@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview 
+## Project and Challenge Overview 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 * 1. Calculate the total number of votes cast. 
 * 2. Get a complete list of candidiates who received votes. 
@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv 
 - Software: Python 3.7.6, 64 bits, Visual Studio Code, 1.55.2 (Universal) 
 
-## Summary 
+## Project and Challenge Summary 
 The analysis of the election shows that: 
 * There were 369,711 votes cast in the election. 
 * The candidates were: 
