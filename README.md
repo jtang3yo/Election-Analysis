@@ -16,6 +16,19 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv 
 - Software: Python 3.7.6, 64 bits, Visual Studio Code, 1.55.2 (Universal) 
 
+## Analysis 
+* Declare variables to hold values of candidates and counties as well as votes accordingly 
+  - Create variables ![image](https://user-images.githubusercontent.com/82353749/116597211-52868900-a8f3-11eb-81aa-922323198a9b.png)
+* Loop over data source election_results.csv sheet to get candidates and counties 
+  - candidate votes![image](https://user-images.githubusercontent.com/82353749/116601902-00e0fd00-a8f9-11eb-8b08-d17cc548aee9.png)
+  - county votes![image](https://user-images.githubusercontent.com/82353749/116601931-08080b00-a8f9-11eb-8a50-f55092c21390.png)
+* For loop to get the county from the county dictionary to get candidate results and county results 
+  - Candidate results ![image](https://user-images.githubusercontent.com/82353749/116602397-a8f6c600-a8f9-11eb-8044-192786ae797e.png)
+  - County results ![image](https://user-images.githubusercontent.com/82353749/116602410-aeeca700-a8f9-11eb-9315-6b60d820142b.png)
+* Output the final results to election_analysis.txt file 
+  - Candidate results summary![image](https://user-images.githubusercontent.com/82353749/116603077-80bb9700-a8fa-11eb-8da8-cad61f402fe8.png)
+  - County results summary ![image](https://user-images.githubusercontent.com/82353749/116603098-8913d200-a8fa-11eb-8198-ab58c98bcbf9.png)
+
 ## Project and Challenge Summary 
 The analysis of the election shows that: 
 * There were 369,711 votes cast in the election. 
